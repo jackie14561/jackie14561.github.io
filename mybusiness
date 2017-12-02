@@ -1,0 +1,75 @@
+	<?xml version="1.0" encoding="utf-8" ?> 
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" 
+	"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	   <head>
+		  <title>Earthy Leaf Tea</title>
+			<meta name="description" content="Earthy Leaf Tea" />
+			<meta name="keywords" content="mint, lavender, chamomille, ear grey, green tea" />
+			<meta name="author" content="Jackie Garcia Lemus" />
+			<meta name="copyright" content="Copyright 2017 Jaqueline Garcia Lemus, All Rights Reserved" />
+	 </head>
+
+	   <body>
+		<h2>Jackie's&reg; Earthy Leaf Tea&hearts;</h2>
+			<blockquote><p>"Where there's tea there's hope."</p></blockquote>
+			<div id="aboutus">
+			<h3>About Us&diams;</h3>
+			<img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAsdAAAAJDNmNmMxMDg1LTg0YjYtNDQxMS1hMTAyLTVlYmU3OGYwYzMxMA.jpg" alt="Company Founder" />
+			<br/>
+		<p>Greetings.Jaqueline Garcia Lemus, president and founder of Jackie's&reg; Earthy Leaf Tea. I am currently a Cognitive Science major at the University of California, Los Angeles. For the last two years I have been running this tea company along with furthering my studies. I plan on graduating in June 2018 as a Cognitive Science major with a Specialization in Computing.
+		</p>
+		<p>During the past years as an undergraduate student,tea has always been a fantastic remedy for me in staying energized, relaxed, and simply happy. Therefore, I decided to start this company for others to experience the greatness of drinking tea. I remember going to the store to buy tea and experiencing choice overload by the wide selection of teas and not knowing which tea would give what effect. Therefore, I decided to focus on the simplicity of tea and just provide a limited selection for customers along with explanations as to what each type of tea helps the customer with. I am a strong believer in natural remedies and I belive tea is great for a multitude of needs. I hope you will all enjoy the wonders of tea as much as I do!
+		</p>
+			<br/>
+			</div>
+			
+			<table border="1">
+				<caption>Some of our products</caption>
+				<tr><th>Product</th><th>Description</th><th>Price</th></tr>
+				<tr><td>Mint tea&trade;</td><td>12 oz packet of loose leaf tea that is soothing and refreshing for a cold/flu</td><td>$4.99</td></tr>
+				<tr><td>Green tea&trade;</td><td>12 oz packet of loose leaf tea that keeps you awake and energized through out the day</td><td>$4.99</td></tr>
+				<tr><td>Lavender&trade;</td><td>12 oz packet of loose leaf tea for good breathe and a happy stomach </td><td>$4.99</td></tr>
+				<tr><td>Chamomille tea&trade;</td><td>12 oz packet of loose leaf tea for a goodnight's rest</td><td>$4.99</td></tr>
+				<tr><td>Earl Grey&trade;</td><td>12 oz packet of loose leaf tea for a sense of well-being and rejuvination</td><td>$4.99</td></tr>
+			</table>
+		
+			
+			<h3>Most Popular Products&oplus;</h3>
+				<ol>
+					<li>Mint Tea</li>
+					<li>Chamomille</li>
+					<li>Green Tea</li>
+					<li>Earl Grey</li>
+				</ol>
+			<h3>You may also want to check out</h3>
+				<ul>
+					<li> <a href="http://www.artoftea.com">Art of Tea&reg;</a></li>
+					<li> <a href="http://www.republicoftea.com">The Republic of Tea&reg;</a></li>
+					<li> <a href="http://www.adagio.com">Adagio Teas&reg;</a></li>
+				</ul>
+			<p>
+			<a href="http://www.pic.ucla.edu/~jackie14561/order.html">Order here</a>
+			<br/>
+			<br/>
+			<a href="#aboutus">About our Company</a>
+			</p>
+			
+			<h3>Contact us at</h3>
+				<p><i>Jackie's&reg; Nature Taste<br/>
+					2899 Grass Tea Ave<br/>
+					Nature City,CA 93000<br/><br/>
+					&copy;2017 Jackie's&reg; Nature Taste</i>
+				</p>
+			
+	   
+	   
+		<p>
+
+			<a href="http://validator.w3.org/check?uri=referer"><img
+				src="http://www.w3.org/Icons/valid-xhtml11" alt="Valid XHTML 1.1" height="31" width="88" /></a>
+		</p>
+	  
+	  
+	   </body>
+		</html>

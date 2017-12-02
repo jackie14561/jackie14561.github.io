@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" 
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+   <head>
+		<title>Earthy Leaf Tea</title>
+		<link rel="stylesheet" type="text/css" href="mybusiness.css" />
+		<meta name="description" content="Earthy Leaf Tea" />
+		<meta name="keywords" content="mint, lavender, chamomille, ear grey, green tea" />
+		<meta name="author" content="Jackie Garcia Lemus" />
+		<meta name="copyright" content="Copyright 2017 Jaqueline Garcia Lemus, All Rights Reserved" />
+	</head>
+
+<body>
+  <div id="main_container">
+  <div id="header">
+	<img id="tea" src="mytea.png" alt="Image not found" />
+	<ul id="navbar">
+      
+		<li><a href="http://www.pic.ucla.edu/~jackie14561/mybusiness2.html">Home</a></li>
+         <li><a href="#">About Us</a><ul>
+            <li><a href="#">Our Story</a></li><li>
+            <a href="#">Where do our products come from?</a></li>
+           </ul>
+         </li>
+		 <li><a href="#">Tea Products</a><ul>
+            <li><a href="#">Caffeine free</a></li><li>
+            <a href="#">Energy</a></li><li>
+            <a href="#">Relaxation</a></li><li>
+			<a href="#">Sleep</a></li></ul>
+		</li>
+         <li><a href="#">Learn</a>
+            <ul>
+               <li><a href="#">Tea 101</a></li>
+			   <li><a href="#">How to brew loose leaf tea?</a></li></ul>
+         </li>
+         
+         <li><a href="#">Gifts</a>
+            <ul>
+               <li><a href="#">Giftcards</a></li><li>
+               <a href="#">Tea of the month</a></li>
+               </ul>         
+         </li>
+      </ul>
+
+    </div>
+
+    <div id="sidebar">
+		
+            
+			<h3>Thank You for choosing Earthy Leaf Tea!</h3>
+			
+				<ul>
+					
+					<li><a href="#">Membership</a></li>
+					<li><a href="#">Tea trials</a></li>
+					<li><a href="#">Specials</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+			
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent aliquam,
+			  justo convallis luctus rutrum, erat nulla fermentum diam, at nonummy quam ante 
+			  ac quam. Maecenas urna purus, fermentum id, molestie in, commodo porttitor, felis. 
+			  Nam blandit quam ut lacus. Quisque ornare risus quis ligula. Phasellus tristique 
+			  purus a augue condimentum adipiscing. Aenean sagittis. Etiam leo pede, rhoncus 
+			  venenatis,tristique in, vulputate at, odio.</p>
+ 
+		
+    </div>
+	
+    <div id="content">
+		
+			  <h1>Order Form</h1>
+	<fieldset>
+	<legend>Customer Information</legend>
+	<form class="myform" action="#" method="get">
+	<p>
+		<label>Name: 
+			<input type="text" name="user" />
+		</label>
+		<br/>
+		<label>Street:
+			<input type="text" name="user" />
+		</label>
+		<br/>
+		<label>City: 
+			<input type="text" name="user" />
+		</label>
+		<br/>
+		<label>State: 
+			<input type="text" name="user" />
+		</label>
+		<br/>
+		<label>Zipcode: 
+			<input type="text" name="user" />
+		</label>
+			
+	</p>	
+	</form>
+	</fieldset>
+	
+	<fieldset>
+<legend>Order Information</legend>
+<p>How did you find out about us?
+
+<input type="radio" name="order" value="Commercial" checked="checked" />Commercial
+<input type="radio" name="order" value="Magazine Ad" />Magazine Ad
+<input type="radio" name="order" value="Other" />Other
+<br/>
+
+
+
+
+<input type="checkbox" name="email"
+value="Email" checked="checked" /> Send me emails about future products
+
+</p>
+			<br/>
+        
+			<table class="gridtable">
+			
+			<tr><th>Product</th><th>Description</th><th>Price</th><th>Qty</th></tr>
+			<tr><td>Mint tea&trade;</td><td>12 oz packet of loose leaf tea that is soothing and refreshing for a cold/flu</td><td>$4.99</td><td><input type="text" name="qty" /></td></tr>
+			<tr><td>Green tea&trade;</td><td>12 oz packet of loose leaf tea that keeps you awake and energized through out the day</td><td>$4.99</td><td><input type="text" name="qty" /></td></tr>
+			<tr><td>Lavender&trade;</td><td>12 oz packet of loose leaf tea for good breathe and a happy stomach </td><td>$4.99</td><td><input type="text" name="qty" /></td></tr>
+			<tr><td>Chamomille tea&trade;</td><td>12 oz packet of loose leaf tea for a goodnight's rest</td><td>$4.99</td><td><input type="text" name="qty" /></td></tr>
+			<tr><td>Earl Grey&trade;</td><td>12 oz packet of loose leaf tea for a sense of well-being and rejuvination</td><td>$4.99</td><td><input type="text" name="qty" /></td></tr>
+        </table>
+<p>Select a credit card.
+<select name="payment">
+<option value="Visa">Visa</option>
+<option value="MasterCard">MasterCard</option>
+<option value="Discover">Discover</option>
+<option value="American Express">American Express</option>
+</select>
+
+
+Credit Card Number: <input type="password" name="Credit Card Number" />
+
+</p>
+</fieldset>
+<br/><br/>
+<fieldset>
+<input type="reset" />
+<input type="submit" value="Send" />
+</fieldset>
+
+			
+		
+    </div>
+	<br/>
+	<div id="footer">
+    
+           <p>Copyright &copy; 2017 Jaqueline Garcia Lemus, All Rights Reserved</p>
+    
+  </div>
+</div>
+	<p>
+
+	    <a href="http://validator.w3.org/check?uri=referer"><img
+      		src="http://www.w3.org/Icons/valid-xhtml11" alt="Valid XHTML 1.1" height="31" width="88" /></a>
+  	</p>
+   <p>
+		<a href="http://jigsaw.w3.org/css-validator/check/referer">
+			<img style="border:0;width:88px;height:31px"
+				src="http://jigsaw.w3.org/css-validator/images/vcss"
+				alt="Valid CSS!" />
+		</a>
+	</p>
+	<p>
+	<a href="http://jigsaw.w3.org/css-validator/check/referer">
+		<img style="border:0;width:88px;height:31px"
+			src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+			alt="Valid CSS!" />
+		</a>
+	</p>
+  
+   </body>
+</html>

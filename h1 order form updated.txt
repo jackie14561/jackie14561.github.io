@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" 
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+   <head>
+      <title>Order Form</title>
+ </head>
+
+   <body>
+	<h1>Order Form</h1>
+	<fieldset>
+	<legend>Customer Information</legend>
+	<form method="post" action="">
+		<p>
+			Name: <input type="text" name="user" />
+		<br/>
+			Street: <input type="text" name="user" />
+		<br/>
+			City: <input type="text" name="user" />
+		<br/>
+			State: <input type="text" name="user" />
+		<br/>
+			Zipcode: <input type="text" name="user" />
+		</p>
+	</fieldset>
+	
+
+
+<fieldset>
+<legend>Order Information</legend>
+<p>How did you find out about us?
+
+<input type="radio" name="order" value="Commercial" />Commercial
+<input type="radio" name="order" value="Magazine Ad" />Magazine Ad
+<input type="radio" name="order" value="Other" />Other
+<br/>
+
+
+
+
+<input type="checkbox" name="email"
+value="Email"/> Send me emails about future products
+
+</p>
+<table border="1">
+		<caption>Product List</caption>
+			<tr><td><b>Product</b></td><td><b>Description</b></td><td><b>Price</b></td></tr>
+			<tr><td>Mint tea&trade;</td><td>soothing and fresh taste</td><td>$3.99</td></tr>
+			<tr><td>Mint tea&trade;</td><td>soothing and fresh taste</td><td>$3.99</td></tr>
+			<tr><td>Mint tea&trade;</td><td>soothing and fresh taste</td><td>$3.99</td></tr>
+			<tr><td>Mint tea&trade;</td><td>soothing and fresh taste</td><td>$3.99</td></tr>
+			<tr><td>Mint tea&trade;</td><td>soothing and fresh taste</td><td>$3.99</td></tr>
+        </table>
+<p>Select a credit card.
+<select name="payment">
+<option value="Visa">Visa</option>
+<option value="MasterCard">MasterCard</option>
+<option value="Discover">Discover</option>
+<option value="American Express">American Express</option>
+</select>
+
+
+Credit Card Number: <input type="text" name="Credit Card Number" />
+
+</p>
+</fieldset>
+
+<fieldset>
+<input type="reset" />
+<input type="submit" value="Send" />
+</fieldset>
+
+<h3>Try a sip of Nature's Taste!</h3>
+</form>
+	<p>
+
+	    <a href="http://validator.w3.org/check?uri=referer"><img
+      		src="http://www.w3.org/Icons/valid-xhtml11" alt="Valid XHTML 1.1" height="31" width="88" /></a>
+  	</p>
+  
+  
+   </body>
+</html>
